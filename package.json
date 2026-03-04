@@ -1,0 +1,26 @@
+{
+  "name": "one-string-utils-js",
+  "version": "1.0.0",
+  "description": "One string truncate, capitalize, slugify for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "one",
+    "string",
+    "tool",
+    "utility",
+    "utils"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/one-string-utils-js.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
